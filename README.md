@@ -9,3 +9,6 @@ I am currently learning data structures and algorithms.
 I am interested in web development.
 I am interested in artificial intelligence.
 I am interested in software development.
+
+My goal is to contribute to open source projects.
+My goal is to become a skilled software developer.
