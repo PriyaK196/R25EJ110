@@ -5,3 +5,7 @@ My name is Priya K, and I am studying CSIT. I am using this repository to docume
 
 I am currently learning Python.
 I am currently learning data structures and algorithms.
+
+I am interested in web development.
+I am interested in artificial intelligence.
+I am interested in software development.
