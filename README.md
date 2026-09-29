@@ -12,3 +12,8 @@ I am interested in software development.
 
 My goal is to contribute to open source projects.
 My goal is to become a skilled software developer.
+
+## Projects
+
+I am building a project to practice my web development, GitHub, and version control skills.
+
